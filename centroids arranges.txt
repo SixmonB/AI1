@@ -1,0 +1,10 @@
+    centroids[0] = [1, 0.3, 0, 0.2]   # los componentes de centroids estan guardados
+    centroids[1] = [0, 0.2, 0.6, 1]   # como variables float. Hay que convertirlos a int despues.
+
+50%
+
+
+    centroids[0] = [1, 0.2, 0, 0.3]   # los componentes de centroids estan guardados
+    centroids[1] = [0, 0.2, 0.8, 1]   # como variables float. Hay que convertirlos a int despues.
+
+75%
